@@ -26,7 +26,7 @@ const Episodes = () => {
 
   return (
     <Layout className="layout">
-      <CustomHeader /> {/* Include the Header component */}
+      <CustomHeader />
       <Content style={{ padding: '50px' }}>
         <div style={{ background: '#fff', padding: 24, minHeight: 280 }}>
           <Title level={1}>Episodes</Title>

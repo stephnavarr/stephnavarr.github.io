@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https://stephnavarr.github.io/mental-wealth-agenda/static/css/main.8e4e16e3.css",
+    "main.js": "/https://stephnavarr.github.io/mental-wealth-agenda/static/js/main.db7b075e.js",
+    "static/js/787.a311deb6.chunk.js": "/https://stephnavarr.github.io/mental-wealth-agenda/static/js/787.a311deb6.chunk.js",
+    "index.html": "/https://stephnavarr.github.io/mental-wealth-agenda/index.html",
+    "main.8e4e16e3.css.map": "/https://stephnavarr.github.io/mental-wealth-agenda/static/css/main.8e4e16e3.css.map",
+    "main.db7b075e.js.map": "/https://stephnavarr.github.io/mental-wealth-agenda/static/js/main.db7b075e.js.map",
+    "787.a311deb6.chunk.js.map": "/https://stephnavarr.github.io/mental-wealth-agenda/static/js/787.a311deb6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e4e16e3.css",
+    "static/js/main.db7b075e.js"
+  ]
+}

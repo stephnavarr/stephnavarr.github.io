@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mental-wealth-agenda/static/css/main.8e4e16e3.css",
+    "main.js": "/mental-wealth-agenda/static/js/main.8b17f1ff.js",
+    "static/js/787.a311deb6.chunk.js": "/mental-wealth-agenda/static/js/787.a311deb6.chunk.js",
+    "index.html": "/mental-wealth-agenda/index.html",
+    "main.8e4e16e3.css.map": "/mental-wealth-agenda/static/css/main.8e4e16e3.css.map",
+    "main.8b17f1ff.js.map": "/mental-wealth-agenda/static/js/main.8b17f1ff.js.map",
+    "787.a311deb6.chunk.js.map": "/mental-wealth-agenda/static/js/787.a311deb6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e4e16e3.css",
+    "static/js/main.8b17f1ff.js"
+  ]
+}

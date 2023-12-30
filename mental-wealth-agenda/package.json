@@ -21,7 +21,7 @@
     "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
-"homepage": "https://stephnavarr.github.io/mental-wealth-agenda/",
+"homepage": "https://stephnavarr.github.io/home",
   "eslintConfig": {
     "extends": [
       "react-app",
